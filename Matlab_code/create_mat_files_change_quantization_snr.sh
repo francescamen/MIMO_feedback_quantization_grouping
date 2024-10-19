@@ -8,7 +8,7 @@ mcs_values='3 4'
 
 standard_names='AC AX'
 
-folder_environments='Anechoic_1 Anechoic_2 Office Classroom'
+folder_environments='Anechoic_2 Office Classroom'
 
 chanBWs='CBW80 CBW40 CBW20'
 
