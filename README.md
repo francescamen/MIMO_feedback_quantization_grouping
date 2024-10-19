@@ -24,13 +24,13 @@ cd <your_path>
 git clone https://github.com/francescamen/MIMO_feedback_quantization_grouping.git
 ```
 
-Download the input data from [''http://researchdata.cab.unipd.it/id/eprint/1400''](http://researchdata.cab.unipd.it/id/eprint/1400) and unzip the file.
+Download the input data from [http://researchdata.cab.unipd.it/id/eprint/1400](http://researchdata.cab.unipd.it/id/eprint/1400) and unzip the file.
 For your convenience, you can use the ```Data``` folder inside this project to place the files but the scripts work whatever is the source folder.
 
 ### Obtain the multi-path parameters
 
 To extract the multi-path components from the collected Channel Frequency Response (CFR) samples execute ```Python_code/aoa_toa_method_mDtrack.py``` 
-The multi-path components are needed for the emulation. Note that the dataset we made available at [''http://researchdata.cab.unipd.it/id/eprint/1400''](http://researchdata.cab.unipd.it/id/eprint/1400) already contains also the multi-path decomposition so you can avoid executing this Python file. Instead, if you want to use our code to process a different CFR dataset you need to also execute this file.
+The multi-path components are needed for the emulation. Note that the dataset we made available at [http://researchdata.cab.unipd.it/id/eprint/1400](http://researchdata.cab.unipd.it/id/eprint/1400) already contains also the multi-path decomposition so you can avoid executing this Python file. Instead, if you want to use our code to process a different CFR dataset you need to also execute this file.
 
 ### Create the Matlab files for the emulations with the diffrent parameters 
 
