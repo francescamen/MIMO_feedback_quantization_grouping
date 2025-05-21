@@ -11,9 +11,9 @@ If you find the project useful and you use this code, please cite our article:
   journal={IEEE Wireless Communications Letters}, 
   title={{Evaluating the Impact of Channel Feedback Quantization and Grouping in IEEE 802.11 MIMO Wi-Fi Networks}}, 
   year={2024},
-  volume={},
-  number={},
-  pages={}
+  volume={13},
+  number={12},
+  pages={3419--3423}
   }
 ```
 
